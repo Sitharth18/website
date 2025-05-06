@@ -118,8 +118,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-# OUTPUT:
-![alt text](<Screenshot 2024-12-22 130726.png>)
+# OUTPUT:![alt text](<Screenshot 2024-12-22 130726.png>)
 ![alt text](<Screenshot 2024-12-22 130745.png>)
 ![alt text](<Screenshot 2024-12-22 130801.png>)
 ![Screenshot 2024-12-23 143331](https://github.com/user-attachments/assets/ba01a25f-973d-4bbe-97df-79b6565e93a0)
