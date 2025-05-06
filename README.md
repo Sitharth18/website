@@ -118,9 +118,9 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-# OUTPUT:![alt text](<Screenshot 2024-12-22 130726.png>)
-![alt text](<Screenshot 2024-12-22 130745.png>)
-![alt text](<Screenshot 2024-12-22 130801.png>)
+# OUTPUT:
+![Screenshot 2025-05-06 102801](https://github.com/user-attachments/assets/d6f57bb0-bfff-4337-afc7-5ed8d7dc8138)
+![Screenshot 2025-05-06 102839](https://github.com/user-attachments/assets/03fd6dbf-ef05-4161-a820-8e4b39f3588c)
 ![Screenshot 2024-12-23 143331](https://github.com/user-attachments/assets/ba01a25f-973d-4bbe-97df-79b6565e93a0)
 
 
